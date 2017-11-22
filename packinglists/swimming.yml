@@ -1,0 +1,36 @@
+
+poolSwimsuit:
+  name: "Pool Swimsuit"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Swimming"
+
+swimsuitCoverup:
+  name: "Swimsuit Coverup"
+  gender: "Female"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Swimming"
+
+goggles:
+  name: "Goggles"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Swimming"
+
+sandalsSwimming:
+  name: "Sandals"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Swimming"

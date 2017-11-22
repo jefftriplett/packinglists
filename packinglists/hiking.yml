@@ -1,0 +1,108 @@
+
+hikingShoes:
+  name: "Hiking Shoes"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Hiking"
+
+shirtsHiking:
+  name: "Shirts [non-cotton]"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Hiking"
+
+pantsHiking:
+  name: "Pants [non-cotton]"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Hiking"
+
+socksHiking:
+  name: "Socks [non-cotton]"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Hiking"
+
+sunglassesHiking:
+  name: "Sunglasses"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Hiking"
+
+waterBottleHiking:
+  name: "Water Bottle"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Hiking"
+
+hatHiking:
+  name: "Hat"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Hiking"
+
+sunscreenHiking:
+  name: "Sunscreen"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Hiking"
+
+bugSprayHiking:
+  name: "Bug Spray"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Hiking"
+
+firstAidKitHiking:
+  name: "First Aid Kit"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Hiking"
+
+compassHiking:
+  name: "Compass"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Hiking"
+
+handheldGpsHiking:
+  name: "Handheld Gps"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Hiking"

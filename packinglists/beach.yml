@@ -1,0 +1,63 @@
+
+beachSwimsuit:
+  name: "Beach Swimsuit"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Beach"
+
+swimsuitCoverupBeach:
+  name: "Swimsuit Coverup"
+  gender: "Female"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Beach"
+
+sunglassesBeach:
+  name: "Sunglasses"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Beach"
+
+sunscreenBeach:
+  name: "Sunscreen"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Beach"
+
+hat:
+  name: "Hat"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Beach"
+
+sandalsBeach:
+  name: "Sandals"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Beach"
+
+beachTowel:
+  name: "Beach Towel"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Beach"

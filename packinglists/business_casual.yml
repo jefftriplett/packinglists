@@ -1,0 +1,108 @@
+
+suitJacket:
+  name: "Suit Jacket"
+  gender: "Unisex"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: 0.36
+  group_title: "Business casual"
+
+workShirt:
+  name: "Work Shirt"
+  gender: "Unisex"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: 0.5
+  group_title: "Business casual"
+
+workPants:
+  name: "Work Pants"
+  gender: "Unisex"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: 0.36
+  group_title: "Business casual"
+
+workShoes:
+  name: "Work Shoes"
+  gender: "Unisex"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Business casual"
+
+workSocks:
+  name: "Work Socks"
+  gender: "Unisex"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: 1
+  group_title: "Business casual"
+
+workBelt:
+  name: "Work Belt"
+  gender: "Unisex"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Business casual"
+
+formalWatch:
+  name: "Formal Watch"
+  gender: "Unisex"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Business casual"
+
+skirtBusiness:
+  name: "Skirt"
+  gender: "Female"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Business casual"
+
+dressBusiness:
+  name: "Dress"
+  gender: "Female"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Business casual"
+
+shoePolish:
+  name: "Shoe Polish"
+  gender: "Male"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Business casual"
+
+jewelry:
+  name: "Jewelry"
+  gender: "Female"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Business casual"
+
+hosiery:
+  name: "Hosiery"
+  gender: "Female"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Business casual"

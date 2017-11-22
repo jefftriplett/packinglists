@@ -1,0 +1,81 @@
+
+passport:
+  name: "Passport"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "International"
+
+visa:
+  name: "Visa [immigration]"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "International"
+
+vaccinationCertificates:
+  name: "Vaccination Certificates"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "International"
+
+medicalInsuranceCard:
+  name: "Medical Insurance Card"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "International"
+
+foreignCurrency:
+  name: "Foreign Currency"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "International"
+
+powerAdapter:
+  name: "Power Adapter"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "International"
+
+powerTransformer:
+  name: "Power Transformer"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "International"
+
+checkElectronicsVoltages:
+  name: "Check Electronics Voltages"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "International"
+
+pen:
+  name: "Pen"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "International"

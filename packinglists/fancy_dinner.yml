@@ -1,0 +1,175 @@
+
+# Men
+
+suitJacketFancy:
+  name: "Suit Jacket"
+  gender: "Male"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: 0.36
+  group_title: "Fancy dinner"
+
+workShirtFancy:
+  name: "Work Shirt"
+  gender: "Male"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: 0.5
+  group_title: "Fancy dinner"
+
+workPantsFancy:
+  name: "Work Pants"
+  gender: "Male"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: 0.36
+  group_title: "Fancy dinner"
+
+workShoesFancy:
+  name: "Work Shoes"
+  gender: "Male"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Fancy dinner"
+
+workSocksFancy:
+  name: "Work Socks"
+  gender: "Male"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: 1
+  group_title: "Fancy dinner"
+
+workBeltFancy:
+  name: "Work Belt"
+  gender: "Male"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Fancy dinner"
+
+formalWatchFancy:
+  name: "Formal Watch"
+  gender: "Male"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Fancy dinner"
+
+shoePolishFancy:
+  name: "Shoe Polish"
+  gender: "Male"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Fancy dinner"
+
+# Women
+
+blouse:
+  name: "Blouse"
+  gender: "Female"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Fancy dinner"
+
+pantsFancy:
+  name: "Pants"
+  gender: "Female"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Fancy dinner"
+
+dressFancy :
+  name: "Dress"
+  gender: "Female"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Fancy dinner"
+
+skirtFancy:
+  name: "Skirt"
+  gender: "Female"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Fancy dinner"
+
+dressShoes:
+  name: "Dress Shoes"
+  gender: "Female"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Fancy dinner"
+
+jewelryFancy:
+  name: "Jewelry"
+  gender: "Female"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Fancy dinner"
+
+hairBlowDryer:
+  name: "Hair Blow Dryer"
+  gender: "Female"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Fancy dinner"
+
+hairProducts:
+  name: "Hair Products"
+  gender: "Female"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Fancy dinner"
+
+pantyhose:
+  name: "Pantyhose"
+  gender: "Female"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Fancy dinner"
+
+jacketFancy:
+  name: "Jacket"
+  gender: "Female"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Fancy dinner"
+
+cardigan:
+  name: "Cardigan"
+  gender: "Female"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Fancy dinner"

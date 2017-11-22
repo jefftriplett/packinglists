@@ -1,0 +1,297 @@
+
+handSanitizer:
+  name: "Hand Sanitizer"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Essentials"
+
+chapstick:
+  name: "Chapstick"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Essentials"
+
+vitamins:
+  name: "Vitamins"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Essentials"
+
+medications:
+  name: "Medications"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Essentials"
+
+painRelieverPills:
+  name: "Pain Reliever Pills"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Essentials"
+
+wallet:
+  name: "Wallet"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Essentials"
+
+casualWatch :
+  name: "Casual Watch"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Essentials"
+
+houseKey:
+  name: "House Key"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Essentials"
+
+underwear:
+  name: "Underwear"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: 1
+  group_title: "Essentials"
+
+bra:
+  name: "Bra"
+  gender: "Female"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Essentials"
+
+socksLong:
+  name: "Socks - Long"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: 0.5
+  group_title: "Essentials"
+
+socksShort:
+  name: "Socks - Short"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: "warm"
+  quantity: 1
+  daily_count: 0.5  # Fixed
+  group_title: "Essentials"
+
+casualShirts:
+  name: "Casual Shirts"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: 1
+  group_title: "Essentials"
+
+shorts:
+  name: "Shorts"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: "warm"
+  quantity: 1
+  daily_count: ""
+  group_title: "Essentials"
+
+casualPants:
+  name: "Casual Pants"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: 0.5
+  group_title: "Essentials"
+
+skirt:
+  name: "Skirt"
+  gender: "Female"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Essentials"
+
+dress:
+  name: "Dress"
+  gender: "Female"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Essentials"
+
+belt:
+  name: "Belt"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Essentials"
+
+pajamas:
+  name: "Pajamas"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Essentials"
+
+readingGlasses:
+  name: "Reading Glasses"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Essentials"
+
+sunglasses:
+  name: "Sunglasses"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Essentials"
+
+earPlugs:
+  name: "Ear Plugs"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Essentials"
+
+eyeMask:
+  name: "Eye Mask"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Essentials"
+
+book:
+  name: "Book"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Essentials"
+
+camera:
+  name: "Camera"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Essentials"
+
+cellPhone:
+  name: "Cell Phone"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Essentials"
+
+cellPhoneCharger:
+  name: "Cell Phone Charger"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Essentials"
+
+boardingPass:
+  name: "Boarding Pass"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Essentials"
+
+printedTripItinerary:
+  name: "Printed Trip Itinerary"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Essentials"
+
+tampons:
+  name: "Tampons"
+  gender: "Female"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Essentials"
+
+umbrella:
+  name: "Umbrella"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Essentials"
+
+sweater:
+  name: "Sweater"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Essentials"
+
+jacket:
+  name: "Jacket"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Essentials"

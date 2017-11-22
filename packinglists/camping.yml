@@ -1,0 +1,216 @@
+
+tent:
+  name: "Tent"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Camping"
+
+sleepingBag:
+  name: "Sleeping Bag"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Camping"
+
+sleepingPad:
+  name: "Sleeping Pad"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Camping"
+
+pillow:
+  name: "Pillow"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Camping"
+
+eatingUtensils:
+  name: "Eating Utensils"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Camping"
+
+cookingTools:
+  name: "Cooking Tools"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Camping"
+
+flashlight:
+  name: "Flashlight"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Camping"
+
+headlamp:
+  name: "Headlamp"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Camping"
+
+firewood:
+  name: "Firewood"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Camping"
+
+matchesLighter:
+  name: "Matches/lighter"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Camping"
+
+campingFood:
+  name: "Camping Food"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Camping"
+
+snacks :
+  name: "Snacks"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Camping"
+
+tickRemover:
+  name: "Tick Remover"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Camping"
+
+bugSpray:
+  name: "Bug Spray"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Camping"
+
+shirts:
+  name: "Shirts [non-cotton]"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Camping"
+
+pants:
+  name: "Pants [non-cotton]"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Camping"
+
+socks:
+  name: "Socks [non-cotton]"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Camping"
+
+firstAidKit:
+  name: "First Aid Kit"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Camping"
+
+waterFilter:
+  name: "Water Filter"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Camping"
+
+compass:
+  name: "Compass"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Camping"
+
+handheldGps:
+  name: "Handheld Gps"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Camping"
+
+towel:
+  name: "Towel"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Camping"
+
+utilityKnife:
+  name: "Utility Knife"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Camping"
+
+longUnderwearCamping:
+  name: "Long Underwear"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: "cold"
+  quantity: 1
+  daily_count: ""
+  group_title: "Camping"

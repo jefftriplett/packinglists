@@ -1,0 +1,54 @@
+
+runningShoes:
+  name: "Running Shoes"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Running"
+
+runningSocks:
+  name: "Running Socks"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Running"
+
+runningShorts:
+  name: "Running Shorts"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Running"
+
+runningShirt:
+  name: "Running Shirt"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Running"
+
+musicPlayerRunning:
+  name: "Music Player"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Running"
+
+runningHeadphones:
+  name: "Running Headphones"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Running"

@@ -1,0 +1,243 @@
+
+motorcycleJacket:
+  name: "Motorcycle Jacket"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Motorcycling"
+
+motorcyclePants:
+  name: "Motorcycle Pants"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Motorcycling"
+
+motorcycleBoots:
+  name: "Motorcycle Boots"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Motorcycling"
+
+motorcycleGloves:
+  name: "Motorcycle Gloves"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Motorcycling"
+
+helmetMotorcycling:
+  name: "Helmet"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Motorcycling"
+
+earPlugsMotorcycling:
+  name: "Ear Plugs"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Motorcycling"
+
+headphonesMotorcycling:
+  name: "Headphones"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Motorcycling"
+
+musicPlayerMotorcycling:
+  name: "Music Player"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Motorcycling"
+
+shieldCleaner:
+  name: "Shield Cleaner"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Motorcycling"
+
+microfiberTowels:
+  name: "Microfiber Towels"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Motorcycling"
+
+rainGear:
+  name: "Rain Gear"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Motorcycling"
+
+spareSunglasses:
+  name: "Spare Sunglasses"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Motorcycling"
+
+dryBagForClothing:
+  name: "Dry Bag For Clothing"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Motorcycling"
+
+bungeeCords:
+  name: "Bungee Cords"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Motorcycling"
+
+toolBag:
+  name: "Tool Bag"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Motorcycling"
+
+motorcycleTools:
+  name: "Motorcycle Tools"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Motorcycling"
+
+tireRepairKit:
+  name: "Tire Repair Kit"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Motorcycling"
+
+electricalTape:
+  name: "Electrical Tape"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Motorcycling"
+
+zipTies:
+  name: "Zip Ties"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Motorcycling"
+
+jbWeld:
+  name: "Jb Weld"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Motorcycling"
+
+rescueTape:
+  name: "Rescue Tape"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Motorcycling"
+
+chainLube:
+  name: "Chain Lube"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Motorcycling"
+
+motorcycleGps:
+  name: "Motorcycle Gps"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Motorcycling"
+
+spotBeacon:
+  name: "Spot Beacon"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Motorcycling"
+
+solarChargerForGadgets:
+  name: "Solar Charger For Gadgets"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Motorcycling"
+
+ardCaseForGadgets:
+  name: "Hard Case For Gadgets"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Motorcycling"
+
+waterproofPouch:
+  name: "Waterproof Pouch"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Motorcycling"

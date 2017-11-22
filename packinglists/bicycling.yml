@@ -1,0 +1,54 @@
+
+bicycleShoes:
+  name: "Bicycle Shoes"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Bicycling"
+
+helmet:
+  name: "Helmet"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Bicycling"
+
+sunglassesBicycling:
+  name: "Sunglasses"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Bicycling"
+
+bicycleShorts:
+  name: "Bicycle Shorts"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Bicycling"
+
+bicycleShirt:
+  name: "Bicycle Shirt"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Bicycling"
+
+bicycleLight:
+  name: "Bicycle Light"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Bicycling"

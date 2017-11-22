@@ -1,0 +1,135 @@
+
+suitJacketBusiness:
+  name: "Suit Jacket"
+  gender: "Unisex"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: 0.36
+  group_title: "Business formal"
+
+workShirtBusiness:
+  name: "Work Shirt"
+  gender: "Unisex"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: 0.5
+  group_title: "Business formal"
+
+workPantsBusiness:
+  name: "Work Pants"
+  gender: "Unisex"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: 0.36
+  group_title: "Business formal"
+
+workShoesBusiness:
+  name: "Work Shoes"
+  gender: "Unisex"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Business formal"
+
+workSocksBusiness:
+  name: "Work Socks"
+  gender: "Unisex"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: 1
+  group_title: "Business formal"
+
+workBeltBusiness:
+  name: "Work Belt"
+  gender: "Unisex"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Business formal"
+
+formalWatchBusiness:
+  name: "Formal Watch"
+  gender: "Unisex"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Business formal"
+
+skirtBusinessFormal:
+  name: "Skirt"
+  gender: "Female"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Business formal"
+
+dressBusinessFormal:
+  name: "Dress"
+  gender: "Female"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Business formal"
+
+shoePolishBusiness:
+  name: "Shoe Polish"
+  gender: "Male"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Business formal"
+
+jewelryBusiness:
+  name: "Jewelry"
+  gender: "Female"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Business formal"
+
+hosieryBusiness:
+  name: "Hosiery"
+  gender: "Female"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Business formal"
+
+tie:
+  name: "Tie"
+  gender: "Male"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Business formal"
+
+cufflinks:
+  name: "Cufflinks"
+  gender: "Male"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Business formal"
+
+suitJacketFormal:
+  name: "Suit Jacket"
+  gender: "Female"
+  activity: "business"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Business formal"

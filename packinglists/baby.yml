@@ -1,0 +1,333 @@
+
+diapers:
+  name: "Diapers"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+changingPad:
+  name: "Changing Pad"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+blankets:
+  name: "Blankets"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+plasticBags:
+  name: "Plastic Bags"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+diaperRashCream:
+  name: "Diaper Rash Cream"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+babyWipes:
+  name: "Baby Wipes"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+disinfectingHandGel:
+  name: "Disinfecting Hand Gel"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+babySoap:
+  name: "Baby Soap"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+babyLotion:
+  name: "Baby Lotion"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+tissues:
+  name: "Tissues"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+pacifier:
+  name: "Pacifier"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+babyToys:
+  name: "Baby Toys"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+babyClothes:
+  name: "Baby Clothes"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+babySocks:
+  name: "Baby Socks"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+babyShoes:
+  name: "Baby Shoes"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+babyBib:
+  name: "Baby Bib"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+babyHat:
+  name: "Baby Hat"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+babyFood:
+  name: "Baby Food"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+plasticUtensils:
+  name: "Plastic Utensils"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+babyFormula:
+  name: "Baby Formula"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+waterAndOrJuice:
+  name: "Water And/or Juice"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+babyBottleNipples:
+  name: "Baby Bottle + Nipples"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+babySippyCup:
+  name: "Baby Sippy Cup"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+energySnacks:
+  name: "Energy Snacks"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+breastpump:
+  name: "Breastpump"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+nightLight:
+  name: "Night Light"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+firstAidKitBaby:
+  name: "First Aid Kit"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+babyPainReliever:
+  name: "Baby Pain Reliever"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+babySlingOrFrontCarrier:
+  name: "Baby Sling Or Front Carrier"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+portableCribOrPlayYard:
+  name: "Portable Crib Or Play Yard"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+inflatableBabyBathtub:
+  name: "Inflatable Baby Bathtub"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+babyCarSeat:
+  name: "Baby Car Seat"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+collapsibleStroller:
+  name: "Collapsible Stroller"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+babyBirthCertificate:
+  name: "Baby Birth Certificate"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+babyGasReliever:
+  name: "Baby Gas Reliever"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+consentToTravelForm:
+  name: "Consent To Travel Form"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"
+
+babySunscreen:
+  name: "Baby Sunscreen"
+  gender: "Unisex"
+  activity: "leisure"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Baby"

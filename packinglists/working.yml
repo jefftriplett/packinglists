@@ -1,0 +1,63 @@
+
+laptop:
+  name: "Laptop"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Working"
+
+laptopCharger:
+  name: "Laptop Charger"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Working"
+
+vpnKeyfob:
+  name: "Vpn Keyfob"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Working"
+
+WorkCellPhone:
+  name: "Work Cell Phone"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Working"
+
+WorkCellPhoneCharger:
+  name: "Work Cell Phone Charger"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Working"
+
+workBadge:
+  name: "Work Badge"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Working"
+
+businessCards:
+  name: "Business Cards"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Working"

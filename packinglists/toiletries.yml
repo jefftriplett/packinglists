@@ -1,0 +1,144 @@
+
+qtips:
+  name: "Qtips"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Toiletries"
+
+cologne:
+  name: "Cologne"
+  gender: "Male"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Toiletries"
+
+perfume:
+  name: "Perfume"
+  gender: "Female"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Toiletries"
+
+nailClippers:
+  name: "Nail Clippers"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Toiletries"
+
+tweezers:
+  name: "Tweezers"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Toiletries"
+
+blemishStick:
+  name: "Blemish Stick"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Toiletries"
+
+makeup:
+  name: "Makeup"
+  gender: "Female"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Toiletries"
+
+toothbrush:
+  name: "Toothbrush"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Toiletries"
+
+toothpaste:
+  name: "Toothpaste"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Toiletries"
+
+hairbrush:
+  name: "Hairbrush"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Toiletries"
+
+floss:
+  name: "Floss"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Toiletries"
+
+deodorant:
+  name: "Deodorant"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Toiletries"
+
+shaver:
+  name: "Shaver"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Toiletries"
+
+shavingGel:
+  name: "Shaving Gel"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Toiletries"
+
+contacts:
+  name: "Contacts"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Toiletries"
+
+contactSolution:
+  name: "Contact Solution"
+  gender: "Unisex"
+  activity: "common"
+  min_temperature: ""
+  quantity: 1
+  daily_count: ""
+  group_title: "Toiletries"
