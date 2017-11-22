@@ -11,25 +11,25 @@ DEFAULTS = [
 ]
 
 
-class ActivityThing(object):
+# class ActivityThing(object):
 
-    def __init__(self, **kwargs):
-        self.name = kwargs.get('name')
-        self.gender = kwargs.get('gender')
-        self.activity = kwargs.get('activity')
-        self.min_temperature = kwargs.get('min_temperature')
-        self.quantity = kwargs.get('quantity')
-        self.daily_count = kwargs.get('daily_count')
-        self.image = kwargs.get('image', None)
-        self.selected = kwargs.get('selected', False)
-        self.group_title = kwargs.get('group_title')
-        self.deleted = kwargs.get('deleted', False)
+#     def __init__(self, **kwargs):
+#         self.name = kwargs.get('name')
+#         self.gender = kwargs.get('gender')
+#         self.activity = kwargs.get('activity')
+#         self.min_temperature = kwargs.get('min_temperature')
+#         self.quantity = kwargs.get('quantity')
+#         self.daily_count = kwargs.get('daily_count')
+#         self.image = kwargs.get('image', None)
+#         self.selected = kwargs.get('selected', False)
+#         self.group_title = kwargs.get('group_title')
+#         self.deleted = kwargs.get('deleted', False)
 
-    def __str__(self):
-        return '{group_title}: {name}'.format(
-            group_title=self.group_title,
-            name=self.name,
-        )
+#     def __str__(self):
+#         return '{group_title}: {name}'.format(
+#             group_title=self.group_title,
+#             name=self.name,
+#         )
 
 
 def load_packing_data():
