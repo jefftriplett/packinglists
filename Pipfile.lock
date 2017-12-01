@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "ba69098a7fa1b145bb6bce1f8aea7838345eb1ea43383d7532a2a06b603b369f"
+            "sha256": "0cd75f7192a9caa6e22f19fbbcc8c6a1339a0dca1d858c1e21b0d1f566a424a2"
         },
         "host-environment-markers": {
             "implementation_name": "cpython",
@@ -16,7 +16,7 @@
             "python_version": "3.6",
             "sys_platform": "darwin"
         },
-        "pipfile-spec": 3,
+        "pipfile-spec": 6,
         "requires": {},
         "sources": [
             {
@@ -32,6 +32,19 @@
                 "sha256:f15516df478d5a56180fbf80e68f206010e6d160fc39fa508b65e035fd75130b"
             ],
             "version": "==6.7"
+        },
+        "click-default-group": {
+            "hashes": [
+                "sha256:ba8c43d9c384e1ea7127484c5fc8f4e1ca759519a64fff10718d53f4b82c412a"
+            ],
+            "version": "==1.2"
+        },
+        "python-slugify": {
+            "hashes": [
+                "sha256:c3733135d3b184196fdb8844f6a74bbfb9cf6720d1dcce3254bdc434353f938f",
+                "sha256:57a385df7a1c6dbd15f7666eaff0ff29d3f60363b228b1197c5308ed3ba5f824"
+            ],
+            "version": "==1.2.4"
         },
         "pyyaml": {
             "hashes": [
@@ -51,6 +64,13 @@
                 "sha256:5ac82e411044fb129bae5cfbeb3ba626acb2af31a8d17d175004b70862a741a7"
             ],
             "version": "==3.12"
+        },
+        "unidecode": {
+            "hashes": [
+                "sha256:61f807220eda0203a774a09f84b4304a3f93b5944110cc132af29ddb81366883",
+                "sha256:280a6ab88e1f2eb5af79edff450021a0d3f0448952847cd79677e55e58bad051"
+            ],
+            "version": "==0.4.21"
         }
     },
     "develop": {}
