@@ -29,11 +29,19 @@ class PackingManager(object):
 
         self.load_packing_lists()
 
+    @property
+    def _default_packing_item_kwargs(self):
+        return {
+            'nights': self.nights,
+            'laundry': self.laundry,
+        }
+
     def add_packing_item(self, packing_item):
         self.packing_data[packing_item.id] = packing_item
 
     def get_activity_types(self):
         results = []
+
         for packing_item in sorted(self.packing_data):
             packing = self.packing_data[packing_item]
             results.append(packing.group_title)
@@ -43,11 +51,18 @@ class PackingManager(object):
 
         return results
 
+    def get_global_packing_lists(self):
+        return Path('packing-lists').glob('*.yml')
+
     def get_packing_item_by_id(self, id):
         pass
 
+    def get_packing_data(self):
+        return self.packing_data.copy()
+
     def get_packing_items_by_activity(self, activity_name):
         results = []
+
         for packing_item in sorted(self.packing_data):
             packing = self.packing_data[packing_item]
             if (
@@ -59,12 +74,6 @@ class PackingManager(object):
 
         return results
 
-    def get_packing_data(self):
-        return self.packing_data
-
-    def get_global_packing_lists(self):
-        return Path('packing-lists').glob('*.yml')
-
     def get_user_packing_lists(self):
         user_folder = Path(os.path.expanduser('~'), '.config', 'packing-list')
 
@@ -73,28 +82,30 @@ class PackingManager(object):
 
     def load_global_packing_lists(self):
         filenames = self.get_global_packing_lists()
-        self.load_packing_lists_into_thing(filenames)
 
-    def load_user_packing_lists(self):
-        filenames = self.get_user_packing_lists()
-        if filenames:
-            self.load_packing_lists_into_thing(filenames)
+        self.load_packing_lists_into_thing(filenames)
 
     def load_packing_lists(self):
         self.load_global_packing_lists()
         self.load_user_packing_lists()
 
     def load_packing_lists_into_thing(self, filenames):
+
         for filename in filenames:
             items = yaml.load(filename.read_text())
+
             if items is not None:
                 for item in items:
-                    packing_item = PackingItem(
-                        nights=self.nights,
-                        laundry=self.laundry,
-                        **items[item]
-                    )
+                    packing_item_kwargs = self._default_packing_item_kwargs.copy()
+                    packing_item_kwargs.update(items[item])
+                    packing_item = PackingItem(**packing_item_kwargs)
                     self.add_packing_item(packing_item)
+
+    def load_user_packing_lists(self):
+        filenames = self.get_user_packing_lists()
+
+        if filenames:
+            self.load_packing_lists_into_thing(filenames)
 
 
 class PackingItem(object):
@@ -136,12 +147,20 @@ class PackingItem(object):
             return ''
 
 
-@click.group(cls=DefaultGroup, default='main', default_if_no_args=True)
+@click.group(cls=DefaultGroup, default='preview', default_if_no_args=True)
 @click.version_option()
 def cli():
     """
     Packing List!
     """
+
+
+@cli.command('create')
+def cmd_create():
+    packing_manager = PackingManager()
+    activity_types = packing_manager.get_activity_types()
+    for activity_type in activity_types:
+        click.echo(activity_type)
 
 
 @cli.command('init')
@@ -160,13 +179,13 @@ def cmd_list():
         click.echo(activity_type)
 
 
-@cli.command()
+@cli.command('preview')
 @click.option('--nights', required=True, type=click.INT)
 @click.option('--activities', default=None)
 @click.option('--gender', default='unisex', type=click.Choice(['unisex', 'female', 'male']))
 @click.option('--laundry', is_flag=True, default=False)
 @click.option('--location', default=None)
-def main(nights, gender, location, activities, laundry):
+def cmd_preview(nights, gender, location, activities, laundry):
     activity_types = DEFAULT_ACTIVITY_TYPES.copy()
 
     if activities:
