@@ -43,8 +43,9 @@ def cmd_init():
 def cmd_list():
     packing_manager = PackingManager()
     activity_types = packing_manager.get_activity_types()
+    click.echo('Activity Types:')
     for activity_type in activity_types:
-        click.echo(activity_type)
+        click.echo(f'- {activity_type}')
 
 
 @cli.command('preview')
