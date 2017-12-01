@@ -46,7 +46,7 @@ class PackingManager(object):
         return results
 
     def get_global_packing_lists(self):
-        return Path('packing-lists').glob('*.yml')
+        return Path(Path(__file__).parent, 'data').glob('*.yml')
 
     def get_packing_item_by_id(self, id):
         pass
